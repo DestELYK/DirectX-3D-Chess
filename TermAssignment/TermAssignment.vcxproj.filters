@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <FxCompile Include="LitColourVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="LitColourPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="SkyBoxVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="SkyBoxPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DirectX.cpp" />
+    <ClCompile Include="Font.cpp" />
+    <ClCompile Include="IndexedPrimitive.cpp" />
+    <ClCompile Include="Models.cpp" />
+    <ClCompile Include="myProject.cpp" />
+    <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="TextureType.cpp" />
+    <ClCompile Include="Timer.cpp" />
+    <ClCompile Include="LitColourShader.cpp" />
+    <ClCompile Include="SkyBox.cpp" />
+    <ClCompile Include="RookPiece.cpp" />
+    <ClCompile Include="QueenPiece.cpp" />
+    <ClCompile Include="KingPiece.cpp" />
+    <ClCompile Include="BishopPiece.cpp" />
+    <ClCompile Include="ChessBoard.cpp" />
+    <ClCompile Include="Model.cpp" />
+    <ClCompile Include="ChessPiece.cpp" />
+    <ClCompile Include="PawnPiece.cpp" />
+    <ClCompile Include="AnimatedTransform.cpp" />
+    <ClCompile Include="KnightPiece.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DirectX.h" />
+    <ClInclude Include="Font.h" />
+    <ClInclude Include="IndexedPrimitive.h" />
+    <ClInclude Include="Models.h" />
+    <ClInclude Include="MyProject.h" />
+    <ClInclude Include="Sprite.h" />
+    <ClInclude Include="TextureType.h" />
+    <ClInclude Include="Timer.h" />
+    <ClInclude Include="LitColourShader.h" />
+    <ClInclude Include="SkyBox.h" />
+    <ClInclude Include="RookPiece.h" />
+    <ClInclude Include="QueenPiece.h" />
+    <ClInclude Include="KingPiece.h" />
+    <ClInclude Include="BishopPiece.h" />
+    <ClInclude Include="ChessBoard.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="ChessPiece.h" />
+    <ClInclude Include="PawnPiece.h" />
+    <ClInclude Include="AnimatedTransform.h" />
+    <ClInclude Include="KnightPiece.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{ffb2a3bf-7184-4176-841f-ae9fd202509a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VertexPositionNormalTexture.hlsli">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="SkyBox.hlsli">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

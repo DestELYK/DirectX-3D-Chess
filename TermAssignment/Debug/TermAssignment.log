@@ -1,0 +1,44 @@
+﻿  compilation object save succeeded; see F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\Debug\LitColourPS.cso
+  compilation object save succeeded; see F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\Debug\LitColourVS.cso
+  compilation object save succeeded; see F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\Debug\SkyBoxPS.cso
+  compilation object save succeeded; see F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\Debug\SkyBoxVS.cso
+  AnimatedTransform.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\AnimatedTransform.h(8,10): fatal  error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  BishopPiece.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  ChessBoard.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  ChessPiece.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  Model.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  DirectX.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  Font.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\Font.h(6,10): fatal  error C1083: Cannot open include file: 'SpriteFont.h': No such file or directory
+  KnightPiece.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  IndexedPrimitive.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\IndexedPrimitive.h(9,10): fatal  error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  KingPiece.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  Models.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\Models.h(11,10): fatal  error C1083: Cannot open include file: 'VertexTypes.h': No such file or directory
+  myProject.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  PawnPiece.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  QueenPiece.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  RookPiece.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  SkyBox.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\IndexedPrimitive.h(9,10): fatal  error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Sprite.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\Sprite.h(13,10): fatal  error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  TextureType.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\DirectX.h(3,10): fatal  error C1083: Cannot open include file: 'simplemath.h': No such file or directory
+  Timer.cpp
+  LitColourShader.cpp
+F:\Github\SchoolProjects\3 - Third Term\Prog\KyleDunnTermAssignment2\TermAssignment\LitColourShader.h(11,10): fatal  error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Generating Code...
